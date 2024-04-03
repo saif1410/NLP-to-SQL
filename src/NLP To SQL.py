@@ -5,7 +5,7 @@
 import os
 import pandas as pd
 import openai
-
+# this is for dev purpose only 
 
 df = pd.read_csv("/home/mirafra/Downloads/resumes(1).csv",on_bad_lines='skip')  #load the csv file into padas dataframe
 
